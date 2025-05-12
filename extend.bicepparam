@@ -1,4 +1,4 @@
-using './deploy.bicep'
+using './extend.bicep'
 
 param appName = 'mms-test-bicep2'
 
